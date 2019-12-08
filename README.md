@@ -1,9 +1,7 @@
-# woowa-overTen-study
-
-## 1. 자바8인액션 스터디
+# 1. 자바8인액션 스터디
 - 기간: 2019.07.01 ~ 2019.07.25
 
-### 내용
+## 내용
 
 ![book-Java8inAction](https://user-images.githubusercontent.com/34755287/61990071-3269cc00-b074-11e9-86bd-a90a62e75bd8.png)
 
